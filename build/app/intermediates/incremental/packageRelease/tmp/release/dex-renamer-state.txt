@@ -1,0 +1,4 @@
+#Sat Jan 21 13:03:24 EAT 2023
+base.0=C\:\\DeepState\\DopeMoji\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
