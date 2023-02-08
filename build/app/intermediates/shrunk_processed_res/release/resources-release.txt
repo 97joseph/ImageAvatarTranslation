@@ -63,7 +63,9 @@ ColorSpace
 propertyXName
 displayFeature.rect
 PRIORITY
+mimeType
 isTagEnabled
+startIndex
 emailAddress
 ACTION_SCROLL_FORWARD
 componentName
@@ -137,6 +139,7 @@ YCbCrCoefficients
 %2B
 creditCardNumber
 resizeUp
+DiscouragedApi
 onPostResume
 doAfterTextChanged
 TLS_DHE_RSA_WITH_CHACHA20_POLY1305_SH...
@@ -211,10 +214,10 @@ parkedWorkersStack
 PHONE
 systemNavigationBarColor
 cause
+PlatformPlugin
 com.yalantis.ucrop.AspectRatioOptions
 displayCutout
 bounceInterpolator
-PlatformPlugin
 TLS_ECDH_anon_WITH_AES_256_CBC_SHA
 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384
 SSLv3
@@ -385,6 +388,7 @@ HapticFeedbackType.heavyImpact
 ACTION_SHOW_ON_SCREEN
 InputConnectionAdaptor
 flutter/platform
+TEXTURE_WITH_HYBRID_FALLBACK
 CheckedTextView
 POSTURE_HALF_OPENED
 POSTAL_ADDRESS
@@ -439,6 +443,7 @@ TLS_RSA_WITH_CAMELLIA_256_CBC_SHA
 android.intent.action.GET_CONTENT
 uimode
 KEY_COMPONENT_ACTIVITY_REGISTERED_KEYS
+TextInputAction.commitContent
 inputType
 SubSecTime
 BOTH
@@ -482,6 +487,7 @@ MOVE
 systemNavigationBarDividerColor
 CLIP_PATH
 mAttachInfo
+suggestions
 $splitRule
 TLS_FALLBACK_SCSV
 mResourcesImpl
@@ -569,6 +575,7 @@ setSidecarCallback
 OECF
 info
 DORMANT
+HYBRID_ONLY
 getRealSize
 $Provider
 TextInputType.name
@@ -626,6 +633,7 @@ android.crop_frame_color
 androidx.activity.result.contract.ext...
 HapticFeedbackType.selectionClick
 androidx.view.accessibility.Accessibi...
+endIndex
 action
 text
 SENTENCES
@@ -671,6 +679,7 @@ android.show_crop_grid
 menu
 addView
 android.hide_bottom_controls
+uri
 androidx.core.view.inputmethod.InputC...
 TextInputAction.done
 304
@@ -734,6 +743,7 @@ ACTION_SCROLL_RIGHT
 transformer
 TLS_RSA_WITH_AES_256_GCM_SHA384
 statusBarIconBrightness
+asyncTraceEnd
 transform
 CustomRendered
 TLS_KRB5_EXPORT_WITH_RC4_40_MD5
@@ -1046,6 +1056,7 @@ TLS_ECDH_anon_WITH_3DES_EDE_CBC_SHA
 codePoint
 SystemUiOverlay.top
 CameraOwnerName
+IS_CHECK_STATE_MIXED
 displayFeatures
 TLS_DHE_DSS_WITH_AES_256_CBC_SHA256
 SwitchIntDef
@@ -1404,6 +1415,7 @@ VdcInflateDelegate
 image_cropper_
 tileMode
 max_height
+hybridFallback
 oemFeature
 com.yalantis.ucrop.CropGridRowCount
 getBounds
@@ -1458,8 +1470,8 @@ isCleartextTrafficPermitted
 TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_...
 LAZY
 mContentInsets
-mToken
 PlatformViewWrapper
+mToken
 setDirection
 com.yalantis.ucrop.ImageHeight
 SSL_DHE_RSA_WITH_3DES_EDE_CBC_SHA
@@ -1544,6 +1556,7 @@ WindowInsetsCompat
 android.intent.action.PROCESS_TEXT
 PopupWindowCompatApi21
 ViewUtilsBase
+TEXTURE_WITH_VIRTUAL_FALLBACK
 mIsChildViewEnabled
 flutter_image_picker_error_code
 DeviceSettingDescription
@@ -1654,6 +1667,7 @@ ENQUEUE_FAILED
 statusBarColor
 TLS_ECDH_ECDSA_WITH_RC4_128_SHA
 java.vm.name
+contentCommitMimeTypes
 class
 ws:
 DISABLE_ANIMATIONS
@@ -2020,6 +2034,7 @@ data
 ON_RESUME
 IS_ENABLED
 TLS_ECDHE_RSA_WITH_NULL_SHA
+asyncTraceBegin
 TextCapitalization.characters
 JpgFromRaw
 InteroperabilityIFDPointer

@@ -1,13 +1,13 @@
 <libraries>
   <library
-      name="__local_aars__:C:\DeepState\DopeMoji\build\app\intermediates\flutter\release\libs.jar:unspecified@jar"
-      jars="C:\DeepState\DopeMoji\build\app\intermediates\flutter\release\libs.jar"
-      resolved="__local_aars__:C:\DeepState\DopeMoji\build\app\intermediates\flutter\release\libs.jar:unspecified"/>
+      name="__local_aars__:C:\DeepState\ImageAvatarTranslation\build\app\intermediates\flutter\release\libs.jar:unspecified@jar"
+      jars="C:\DeepState\ImageAvatarTranslation\build\app\intermediates\flutter\release\libs.jar"
+      resolved="__local_aars__:C:\DeepState\ImageAvatarTranslation\build\app\intermediates\flutter\release\libs.jar:unspecified"/>
   <library
-      name="C:\DeepState\DopeMoji\android@@:flutter_plugin_android_lifecycle::release"
-      jars="C:\DeepState\DopeMoji\build\flutter_plugin_android_lifecycle\.transforms\a03508d0a7130655ba931a14c65564a1\transformed\out\jars\classes.jar"
+      name="C:\DeepState\ImageAvatarTranslation\android@@:flutter_plugin_android_lifecycle::release"
+      jars="C:\DeepState\ImageAvatarTranslation\build\flutter_plugin_android_lifecycle\.transforms\9af7cf7a17d12416bd91e9a83405bb56\transformed\out\jars\classes.jar"
       resolved="io.flutter.plugins.flutter_plugin_android_lifecycle:flutter_plugin_android_lifecycle:unspecified"
-      folder="C:\DeepState\DopeMoji\build\flutter_plugin_android_lifecycle\.transforms\a03508d0a7130655ba931a14c65564a1\transformed\out"
+      folder="C:\DeepState\ImageAvatarTranslation\build\flutter_plugin_android_lifecycle\.transforms\9af7cf7a17d12416bd91e9a83405bb56\transformed\out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -17,10 +17,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="C:\DeepState\DopeMoji\android@@:image_picker_android::release"
-      jars="C:\DeepState\DopeMoji\build\image_picker_android\.transforms\88b0c644d6955a8060ea28b8e4f77fbc\transformed\out\jars\classes.jar"
+      name="C:\DeepState\ImageAvatarTranslation\android@@:image_picker_android::release"
+      jars="C:\DeepState\ImageAvatarTranslation\build\image_picker_android\.transforms\b4185c33b3cc3fbf01d03d2aeddede8c\transformed\out\jars\classes.jar"
       resolved="io.flutter.plugins.imagepicker:image_picker_android:unspecified"
-      folder="C:\DeepState\DopeMoji\build\image_picker_android\.transforms\88b0c644d6955a8060ea28b8e4f77fbc\transformed\out"
+      folder="C:\DeepState\ImageAvatarTranslation\build\image_picker_android\.transforms\b4185c33b3cc3fbf01d03d2aeddede8c\transformed\out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -30,10 +30,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="C:\DeepState\DopeMoji\android@@:image_cropper::release"
-      jars="C:\DeepState\DopeMoji\build\image_cropper\.transforms\6eea216a6a5f85984ba6af71b745076d\transformed\out\jars\classes.jar"
+      name="C:\DeepState\ImageAvatarTranslation\android@@:image_cropper::release"
+      jars="C:\DeepState\ImageAvatarTranslation\build\image_cropper\.transforms\79ace85741afaf5a62246a4bfa53d00c\transformed\out\jars\classes.jar"
       resolved="vn.hunghd.flutter.plugins.imagecropper:image_cropper:unspecified"
-      folder="C:\DeepState\DopeMoji\build\image_cropper\.transforms\6eea216a6a5f85984ba6af71b745076d\transformed\out"
+      folder="C:\DeepState\ImageAvatarTranslation\build\image_cropper\.transforms\79ace85741afaf5a62246a4bfa53d00c\transformed\out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -43,9 +43,9 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="io.flutter:flutter_embedding_release:1.0.0-3316dd8728419ad3534e3f6112aa6291f587078a@jar"
-      jars="C:\Users\TEST\.gradle\caches\modules-2\files-2.1\io.flutter\flutter_embedding_release\1.0.0-3316dd8728419ad3534e3f6112aa6291f587078a\89b3bbec4a0b2724d3ff631cd5834c1fad7bef22\flutter_embedding_release-1.0.0-3316dd8728419ad3534e3f6112aa6291f587078a.jar"
-      resolved="io.flutter:flutter_embedding_release:1.0.0-3316dd8728419ad3534e3f6112aa6291f587078a"/>
+      name="io.flutter:flutter_embedding_release:1.0.0-800594f1f4a6674010a6f1603c07a919b4d7ebd7@jar"
+      jars="C:\Users\TEST\.gradle\caches\modules-2\files-2.1\io.flutter\flutter_embedding_release\1.0.0-800594f1f4a6674010a6f1603c07a919b4d7ebd7\1a62dd9e08872beb80c38dc73691564a48d9c22f\flutter_embedding_release-1.0.0-800594f1f4a6674010a6f1603c07a919b4d7ebd7.jar"
+      resolved="io.flutter:flutter_embedding_release:1.0.0-800594f1f4a6674010a6f1603c07a919b4d7ebd7"/>
   <library
       name="androidx.window:window-java:1.0.0-beta04@aar"
       jars="C:\Users\TEST\.gradle\caches\transforms-3\246793f755122fe14a5802655438cb75\transformed\jetified-window-java-1.0.0-beta04\jars\classes.jar"
@@ -89,17 +89,17 @@
       jars="C:\Users\TEST\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib-jdk7\1.6.10\e1c380673654a089c4f0c9f83d0ddfdc1efdb498\kotlin-stdlib-jdk7-1.6.10.jar"
       resolved="org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.6.10"/>
   <library
-      name="io.flutter:armeabi_v7a_release:1.0.0-3316dd8728419ad3534e3f6112aa6291f587078a@jar"
-      jars="C:\Users\TEST\.gradle\caches\modules-2\files-2.1\io.flutter\armeabi_v7a_release\1.0.0-3316dd8728419ad3534e3f6112aa6291f587078a\8a3f110a00b64e15ce4531f6e654b56b350f98a9\armeabi_v7a_release-1.0.0-3316dd8728419ad3534e3f6112aa6291f587078a.jar"
-      resolved="io.flutter:armeabi_v7a_release:1.0.0-3316dd8728419ad3534e3f6112aa6291f587078a"/>
+      name="io.flutter:armeabi_v7a_release:1.0.0-800594f1f4a6674010a6f1603c07a919b4d7ebd7@jar"
+      jars="C:\Users\TEST\.gradle\caches\modules-2\files-2.1\io.flutter\armeabi_v7a_release\1.0.0-800594f1f4a6674010a6f1603c07a919b4d7ebd7\1683a088a6498d0aa8af7e73f06381d3792a4ae9\armeabi_v7a_release-1.0.0-800594f1f4a6674010a6f1603c07a919b4d7ebd7.jar"
+      resolved="io.flutter:armeabi_v7a_release:1.0.0-800594f1f4a6674010a6f1603c07a919b4d7ebd7"/>
   <library
-      name="io.flutter:arm64_v8a_release:1.0.0-3316dd8728419ad3534e3f6112aa6291f587078a@jar"
-      jars="C:\Users\TEST\.gradle\caches\modules-2\files-2.1\io.flutter\arm64_v8a_release\1.0.0-3316dd8728419ad3534e3f6112aa6291f587078a\30eb9cbefab6c0a452b5514ff376a7eb97e38fb\arm64_v8a_release-1.0.0-3316dd8728419ad3534e3f6112aa6291f587078a.jar"
-      resolved="io.flutter:arm64_v8a_release:1.0.0-3316dd8728419ad3534e3f6112aa6291f587078a"/>
+      name="io.flutter:arm64_v8a_release:1.0.0-800594f1f4a6674010a6f1603c07a919b4d7ebd7@jar"
+      jars="C:\Users\TEST\.gradle\caches\modules-2\files-2.1\io.flutter\arm64_v8a_release\1.0.0-800594f1f4a6674010a6f1603c07a919b4d7ebd7\3b708459fc47cdfa31d76f62b9abed80d17594f4\arm64_v8a_release-1.0.0-800594f1f4a6674010a6f1603c07a919b4d7ebd7.jar"
+      resolved="io.flutter:arm64_v8a_release:1.0.0-800594f1f4a6674010a6f1603c07a919b4d7ebd7"/>
   <library
-      name="io.flutter:x86_64_release:1.0.0-3316dd8728419ad3534e3f6112aa6291f587078a@jar"
-      jars="C:\Users\TEST\.gradle\caches\modules-2\files-2.1\io.flutter\x86_64_release\1.0.0-3316dd8728419ad3534e3f6112aa6291f587078a\7cb9c65ad6faf1c93af5a2f472069a96f8508a5a\x86_64_release-1.0.0-3316dd8728419ad3534e3f6112aa6291f587078a.jar"
-      resolved="io.flutter:x86_64_release:1.0.0-3316dd8728419ad3534e3f6112aa6291f587078a"/>
+      name="io.flutter:x86_64_release:1.0.0-800594f1f4a6674010a6f1603c07a919b4d7ebd7@jar"
+      jars="C:\Users\TEST\.gradle\caches\modules-2\files-2.1\io.flutter\x86_64_release\1.0.0-800594f1f4a6674010a6f1603c07a919b4d7ebd7\8c0c951a41834482bc602b56c605a93a038c6859\x86_64_release-1.0.0-800594f1f4a6674010a6f1603c07a919b4d7ebd7.jar"
+      resolved="io.flutter:x86_64_release:1.0.0-800594f1f4a6674010a6f1603c07a919b4d7ebd7"/>
   <library
       name="androidx.lifecycle:lifecycle-common-java8:2.2.0@jar"
       jars="C:\Users\TEST\.gradle\caches\modules-2\files-2.1\androidx.lifecycle\lifecycle-common-java8\2.2.0\cd3478503da69b1a7e0319bd2d1389943db9b364\lifecycle-common-java8-2.2.0.jar"

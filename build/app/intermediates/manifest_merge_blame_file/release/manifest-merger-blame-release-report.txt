@@ -6,35 +6,35 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="16"
-8-->C:\DeepState\DopeMoji\android\app\src\main\AndroidManifest.xml
-9        android:targetSdkVersion="31" />
-9-->C:\DeepState\DopeMoji\android\app\src\main\AndroidManifest.xml
+8-->C:\DeepState\ImageAvatarTranslation\android\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->C:\DeepState\ImageAvatarTranslation\android\app\src\main\AndroidManifest.xml
 10
 11    <application
 12        android:name="android.app.Application"
-12-->C:\DeepState\DopeMoji\android\app\src\main\AndroidManifest.xml:5:9-42
+12-->C:\DeepState\ImageAvatarTranslation\android\app\src\main\AndroidManifest.xml:5:9-42
 13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 13-->[androidx.core:core:1.8.0] C:\Users\TEST\.gradle\caches\transforms-3\d363e3b5616f580c766e3e2b3c05f27d\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
 14        android:icon="@mipmap/ic_launcher"
-14-->C:\DeepState\DopeMoji\android\app\src\main\AndroidManifest.xml:6:9-43
+14-->C:\DeepState\ImageAvatarTranslation\android\app\src\main\AndroidManifest.xml:6:9-43
 15        android:label="dope_moji" >
-15-->C:\DeepState\DopeMoji\android\app\src\main\AndroidManifest.xml:7:9-34
+15-->C:\DeepState\ImageAvatarTranslation\android\app\src\main\AndroidManifest.xml:7:9-34
 16        <activity
-16-->C:\DeepState\DopeMoji\android\app\src\main\AndroidManifest.xml:8:9-27:20
+16-->C:\DeepState\ImageAvatarTranslation\android\app\src\main\AndroidManifest.xml:8:9-27:20
 17            android:name="com.evanemran.dope_moji.MainActivity"
-17-->C:\DeepState\DopeMoji\android\app\src\main\AndroidManifest.xml:9:13-41
+17-->C:\DeepState\ImageAvatarTranslation\android\app\src\main\AndroidManifest.xml:9:13-41
 18            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
-18-->C:\DeepState\DopeMoji\android\app\src\main\AndroidManifest.xml:10:13-163
+18-->C:\DeepState\ImageAvatarTranslation\android\app\src\main\AndroidManifest.xml:10:13-163
 19            android:exported="true"
-19-->C:\DeepState\DopeMoji\android\app\src\main\AndroidManifest.xml:11:13-36
+19-->C:\DeepState\ImageAvatarTranslation\android\app\src\main\AndroidManifest.xml:11:13-36
 20            android:hardwareAccelerated="true"
-20-->C:\DeepState\DopeMoji\android\app\src\main\AndroidManifest.xml:12:13-47
+20-->C:\DeepState\ImageAvatarTranslation\android\app\src\main\AndroidManifest.xml:12:13-47
 21            android:launchMode="singleTop"
-21-->C:\DeepState\DopeMoji\android\app\src\main\AndroidManifest.xml:13:13-43
+21-->C:\DeepState\ImageAvatarTranslation\android\app\src\main\AndroidManifest.xml:13:13-43
 22            android:theme="@style/LaunchTheme"
-22-->C:\DeepState\DopeMoji\android\app\src\main\AndroidManifest.xml:14:13-47
+22-->C:\DeepState\ImageAvatarTranslation\android\app\src\main\AndroidManifest.xml:14:13-47
 23            android:windowSoftInputMode="adjustResize" >
-23-->C:\DeepState\DopeMoji\android\app\src\main\AndroidManifest.xml:15:13-55
+23-->C:\DeepState\ImageAvatarTranslation\android\app\src\main\AndroidManifest.xml:15:13-55
 24
 25            <!--
 26                 Specifies an Android theme to apply to this Activity as soon as
@@ -43,58 +43,58 @@
 29                 to determine the Window background behind the Flutter UI.
 30            -->
 31            <meta-data
-31-->C:\DeepState\DopeMoji\android\app\src\main\AndroidManifest.xml:20:13-22:57
+31-->C:\DeepState\ImageAvatarTranslation\android\app\src\main\AndroidManifest.xml:20:13-22:57
 32                android:name="io.flutter.embedding.android.NormalTheme"
-32-->C:\DeepState\DopeMoji\android\app\src\main\AndroidManifest.xml:21:17-72
+32-->C:\DeepState\ImageAvatarTranslation\android\app\src\main\AndroidManifest.xml:21:17-72
 33                android:resource="@style/NormalTheme" />
-33-->C:\DeepState\DopeMoji\android\app\src\main\AndroidManifest.xml:22:17-54
+33-->C:\DeepState\ImageAvatarTranslation\android\app\src\main\AndroidManifest.xml:22:17-54
 34
 35            <intent-filter>
-35-->C:\DeepState\DopeMoji\android\app\src\main\AndroidManifest.xml:23:13-26:29
+35-->C:\DeepState\ImageAvatarTranslation\android\app\src\main\AndroidManifest.xml:23:13-26:29
 36                <action android:name="android.intent.action.MAIN" />
-36-->C:\DeepState\DopeMoji\android\app\src\main\AndroidManifest.xml:24:17-69
-36-->C:\DeepState\DopeMoji\android\app\src\main\AndroidManifest.xml:24:25-66
+36-->C:\DeepState\ImageAvatarTranslation\android\app\src\main\AndroidManifest.xml:24:17-69
+36-->C:\DeepState\ImageAvatarTranslation\android\app\src\main\AndroidManifest.xml:24:25-66
 37
 38                <category android:name="android.intent.category.LAUNCHER" />
-38-->C:\DeepState\DopeMoji\android\app\src\main\AndroidManifest.xml:25:17-77
-38-->C:\DeepState\DopeMoji\android\app\src\main\AndroidManifest.xml:25:27-74
+38-->C:\DeepState\ImageAvatarTranslation\android\app\src\main\AndroidManifest.xml:25:17-77
+38-->C:\DeepState\ImageAvatarTranslation\android\app\src\main\AndroidManifest.xml:25:27-74
 39            </intent-filter>
 40        </activity>
 41        <activity
-41-->C:\DeepState\DopeMoji\android\app\src\main\AndroidManifest.xml:28:9-31:72
+41-->C:\DeepState\ImageAvatarTranslation\android\app\src\main\AndroidManifest.xml:28:9-31:72
 42            android:name="com.yalantis.ucrop.UCropActivity"
-42-->C:\DeepState\DopeMoji\android\app\src\main\AndroidManifest.xml:29:13-60
+42-->C:\DeepState\ImageAvatarTranslation\android\app\src\main\AndroidManifest.xml:29:13-60
 43            android:screenOrientation="portrait"
-43-->C:\DeepState\DopeMoji\android\app\src\main\AndroidManifest.xml:30:13-49
+43-->C:\DeepState\ImageAvatarTranslation\android\app\src\main\AndroidManifest.xml:30:13-49
 44            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
-44-->C:\DeepState\DopeMoji\android\app\src\main\AndroidManifest.xml:31:13-69
+44-->C:\DeepState\ImageAvatarTranslation\android\app\src\main\AndroidManifest.xml:31:13-69
 45        <!--
 46             Don't delete the meta-data below.
 47             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
 48        -->
 49        <meta-data
-49-->C:\DeepState\DopeMoji\android\app\src\main\AndroidManifest.xml:34:9-36:33
+49-->C:\DeepState\ImageAvatarTranslation\android\app\src\main\AndroidManifest.xml:34:9-36:33
 50            android:name="flutterEmbedding"
-50-->C:\DeepState\DopeMoji\android\app\src\main\AndroidManifest.xml:35:13-44
+50-->C:\DeepState\ImageAvatarTranslation\android\app\src\main\AndroidManifest.xml:35:13-44
 51            android:value="2" />
-51-->C:\DeepState\DopeMoji\android\app\src\main\AndroidManifest.xml:36:13-30
+51-->C:\DeepState\ImageAvatarTranslation\android\app\src\main\AndroidManifest.xml:36:13-30
 52
 53        <provider
-53-->[:image_picker_android] C:\DeepState\DopeMoji\build\image_picker_android\intermediates\merged_manifest\release\AndroidManifest.xml:10:9-18:20
+53-->[:image_picker_android] C:\DeepState\ImageAvatarTranslation\build\image_picker_android\intermediates\merged_manifest\release\AndroidManifest.xml:10:9-18:20
 54            android:name="io.flutter.plugins.imagepicker.ImagePickerFileProvider"
-54-->[:image_picker_android] C:\DeepState\DopeMoji\build\image_picker_android\intermediates\merged_manifest\release\AndroidManifest.xml:11:13-82
+54-->[:image_picker_android] C:\DeepState\ImageAvatarTranslation\build\image_picker_android\intermediates\merged_manifest\release\AndroidManifest.xml:11:13-82
 55            android:authorities="com.evanemran.dope_moji.flutter.image_provider"
-55-->[:image_picker_android] C:\DeepState\DopeMoji\build\image_picker_android\intermediates\merged_manifest\release\AndroidManifest.xml:12:13-74
+55-->[:image_picker_android] C:\DeepState\ImageAvatarTranslation\build\image_picker_android\intermediates\merged_manifest\release\AndroidManifest.xml:12:13-74
 56            android:exported="false"
-56-->[:image_picker_android] C:\DeepState\DopeMoji\build\image_picker_android\intermediates\merged_manifest\release\AndroidManifest.xml:13:13-37
+56-->[:image_picker_android] C:\DeepState\ImageAvatarTranslation\build\image_picker_android\intermediates\merged_manifest\release\AndroidManifest.xml:13:13-37
 57            android:grantUriPermissions="true" >
-57-->[:image_picker_android] C:\DeepState\DopeMoji\build\image_picker_android\intermediates\merged_manifest\release\AndroidManifest.xml:14:13-47
+57-->[:image_picker_android] C:\DeepState\ImageAvatarTranslation\build\image_picker_android\intermediates\merged_manifest\release\AndroidManifest.xml:14:13-47
 58            <meta-data
-58-->[:image_picker_android] C:\DeepState\DopeMoji\build\image_picker_android\intermediates\merged_manifest\release\AndroidManifest.xml:15:13-17:75
+58-->[:image_picker_android] C:\DeepState\ImageAvatarTranslation\build\image_picker_android\intermediates\merged_manifest\release\AndroidManifest.xml:15:13-17:75
 59                android:name="android.support.FILE_PROVIDER_PATHS"
-59-->[:image_picker_android] C:\DeepState\DopeMoji\build\image_picker_android\intermediates\merged_manifest\release\AndroidManifest.xml:16:17-67
+59-->[:image_picker_android] C:\DeepState\ImageAvatarTranslation\build\image_picker_android\intermediates\merged_manifest\release\AndroidManifest.xml:16:17-67
 60                android:resource="@xml/flutter_image_picker_file_paths" />
-60-->[:image_picker_android] C:\DeepState\DopeMoji\build\image_picker_android\intermediates\merged_manifest\release\AndroidManifest.xml:17:17-72
+60-->[:image_picker_android] C:\DeepState\ImageAvatarTranslation\build\image_picker_android\intermediates\merged_manifest\release\AndroidManifest.xml:17:17-72
 61        </provider>
 62
 63        <uses-library
